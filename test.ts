@@ -28,5 +28,6 @@ function printIt(id: number | string) {
 	}
 }
 
-const x: undefined = undefined;
-const z: null = null;
+//const x: undefined = undefined;
+//const z: null = null;
+
